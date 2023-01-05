@@ -18,6 +18,10 @@ Phases:
       - rm -rf public/
       - hugo
       - aws s3 sync public/ s3://cloudgrunt/ --region us-west-2 --delete
+
+  container:
+    image: amazonlinux:2
+    
   post_build:
     commands:
       - echo Build completed on `date`
