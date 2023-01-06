@@ -2,3 +2,6 @@ baseURL = 'https://cloudgrunt.com/'
 languageCode = 'en-us'
 title = 'Cloud Grunt Blog'
 theme = 'ananke'
+
+[params]
+  site_logo = "img/shane.jpg
