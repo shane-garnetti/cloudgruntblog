@@ -4,4 +4,4 @@ title = 'Cloud Grunt Blog'
 theme = 'ananke'
 
 [params]
-  site_logo = "/Users/shane/hugo/cloudgruntblog/static/shane.jpg"
+  site_logo = "/shane2.png"
