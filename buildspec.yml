@@ -18,7 +18,7 @@ Phases:
       - rm -rf public/
       - hugo
       - aws s3 sync public/ s3://cloudgrunt.com/ --region us-east-1 --delete
-      - aws cloudfront create-invalidation --distribution-id E363BQ31FGS051 --paths "/*"
+    
 
 
   post_build:
