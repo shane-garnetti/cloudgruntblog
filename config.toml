@@ -5,3 +5,23 @@ theme = 'ananke'
 
 [params]
   site_logo = "/shane2.png"
+  show_reading_time = true
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 50
+
+[[menu.main]]
+  name = "Content"
+  url = "/content/"
+  weight = 50
+
+[[menu.main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 50
+
+[[params.ananke_socials]]
+name = "Linkedin"
+url = "https://www.linkedin.com/in/shane-garnetti/"
