@@ -11,9 +11,11 @@ Hello everyone and welcome to my tech blog! My name is Shane Garnetti and I am a
 ## Intent for This Blog
 - Share my passions, thoughts, and lessons learned in the technical field of cloud computing
 
-- Encourage and assist those who are seeking a new career into tech and AWS, especially military veterans
+- Encourage and assist those who are seeking a new career into tech, especially military veterans
 
 - Generate content around AWS services, helping people understand the benefits and value of leveraging AWS as a cloud hosting platform 
+
+- Showcase the ways [Triumph Tech](https://www.triumphtech.com/) can assist your company with innovative and purpose driven solutions!
 
 ## Content I Plan to Cover
 - Professional Development
