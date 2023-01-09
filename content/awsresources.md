@@ -19,7 +19,7 @@ tags: ['resources']
 - [Udemy (Stephen Maarek)](https://www.udemy.com/courses/search/?src=ukw&q=stephen+maarek)
 
 ## AWS Certifications
-
+![AWS Certifications](/certs.webp)
 
 ### Foundational
 - [Cloud Practionioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
