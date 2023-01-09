@@ -4,7 +4,7 @@ title = 'Cloud Grunt Blog'
 theme = 'ananke'
 
 [params]
-  site_logo = "/shane2.png"
+ site_logo = "/shane2.png"
   show_reading_time = true
 
 [[menu.main]]
@@ -13,15 +13,15 @@ theme = 'ananke'
   weight = 50
 
 [[menu.main]]
-  name = "Content"
-  url = "/content/"
+  name = "Categories"
+  url = "/categories/"
   weight = 50
 
 [[menu.main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "Resources"
+  url = "/awsresources/"
   weight = 50
-
+  
 [[params.ananke_socials]]
 name = "Linkedin"
 url = "https://www.linkedin.com/in/shane-garnetti/"
