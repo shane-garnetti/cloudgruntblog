@@ -38,5 +38,5 @@ tags: ['resources']
 - [Data Analytics](https://aws.amazon.com/certification/certified-data-analytics-specialty/)
 - [Database](https://aws.amazon.com/certification/certified-database-specialty/)
 - [Machine Learning](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
-- [Security](https://aws.amazon.com/certification/certified-security-specialty/)
+- [Security Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
 - [SAP on AWS](https://aws.amazon.com/certification/certified-sap-on-aws-specialty/)

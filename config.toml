@@ -21,7 +21,7 @@ theme = 'ananke'
   name = "Resources"
   url = "/awsresources/"
   weight = 50
-  
+
 [[params.ananke_socials]]
 name = "Linkedin"
 url = "https://www.linkedin.com/in/shane-garnetti/"

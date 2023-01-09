@@ -26,4 +26,4 @@ Hello everyone and welcome to my tech blog! My name is Shane Garnetti and I am a
 - Ideally, I would like to post new content twice a week
 
 
-**For more specific info on me, check out my [About page](/about)**
+For more specific info on me, check out my [About page](/about)
