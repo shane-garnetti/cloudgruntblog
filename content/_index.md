@@ -2,7 +2,6 @@
 title: "Cloud Grunt Blog"
 date: 2023-01-07T12:21:56-08:00
 draft: false
-featured_image: "/multicam2.png"
 ---
 
 Hello everyone and welcome to my tech blog! My name is Shane Garnetti and I am a former Army Infantry grunt who found a passion for the tech space (hence the name of this blog). Since I hung up my boots from the army in 2017, I have changed my mission, choosing to serve companies by developing and solving business needs with cloud solutions in AWS. Thank you for taking the time to visit! Below are some brief topics that will highlight what you can expect from this blog:
