@@ -1,5 +1,5 @@
 ---
-title: "Out of The Trenches"
+title: "From Sergeant to Solutions Architect: How I Used Military Training to Land My First Tech job"
 date: 2023-01-09T13:20:20-08:00
 draft: false
 tags: ['blog']
