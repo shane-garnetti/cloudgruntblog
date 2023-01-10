@@ -11,7 +11,7 @@ theme = 'ananke'
   name = "About"
   url = "/about/"
   weight = 50
-
+  
 [[menu.main]]
   name = "Categories"
   url = "/categories/"

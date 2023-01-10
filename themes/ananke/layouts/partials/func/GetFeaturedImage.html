@@ -30,7 +30,7 @@
 {{/* Find the first image with 'cover' in the name in this page bundle. */}}
 {{ else }}
   {{ with .Resources.ByType "image" }}
-    {{ with .GetMatch (printf "**{%s}*" $matches) }}
+    {{ with .GetMatch (printf "{%s}*" $matches) }}
       {{ $linkToCover = .RelPermalink }}
     {{ end }}
   {{ end }}
