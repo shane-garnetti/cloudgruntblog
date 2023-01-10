@@ -17,6 +17,7 @@ tags: ['resources']
 - [A Cloud Guru](https://acloudguru.com/?utm_campaign=9982801564&utm_source=google&utm_medium=cpc&utm_content=446017694300&utm_term=e_acloudguru&adgroupid=106298860048&gclid=CjwKCAiA8OmdBhAgEiwAShr404D3zbMcSuxWXmZ9hwRVXGd0YiDlscC_wucIieOluEJ9wWnJaBXrKBoCUAEQAvD_BwE)
 - [Tutorials Dojo](https://portal.tutorialsdojo.com/?gclid=CjwKCAiA8OmdBhAgEiwAShr404CZEzWgrg31dBwqsQWgTshEnIZ5BAj0heMVOH4mAcXse3VeCZcArhoC894QAvD_BwE)
 - [Udemy (Stephen Maarek)](https://www.udemy.com/courses/search/?src=ukw&q=stephen+maarek)
+- [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
 
 ## AWS Certifications
 ![AWS Certifications](/certs.webp)
