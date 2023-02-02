@@ -104,7 +104,7 @@ Control Tower is a managed service providing a single location to set up a well-
 # Design Considerations
 ![Mike Tyson](/mike.jpg)
 #### When designing secure environments in AWS, it is important to understand the overall business objective and what security deliverables need to be met to to achieve the objective. 
-#### Planning is good in theory, but it is critical that routine testing and validation of your defensive posture and tactics meet your expectations. So if an actual security incident does arise, you are not left on your back seeing little birds spinning around you head! 
+#### Planning is good in theory, but it is critical that routine testing and validation of your defensive posture and tactics meet your expectations. So if an actual security incident does arise, you are not left on your back seeing little birds spinning around your head! 
 
 #### When planing for a thoroughly secure design, consider the following 6 concepts as a baseline to start from:
 
