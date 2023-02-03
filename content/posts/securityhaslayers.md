@@ -135,8 +135,8 @@ Control Tower is a managed service providing a single location to set up a well-
 
 ## 6) Remediation
 - If a security breach occurred, is there a documented procudure for how will you remediate?
-- Is there any automated remediations actions required?
-- Is there a validated Disaster Recovery solution that meets RTO/RPO requirements?
+- Are there any automated remediations actions required?
+
 
 # Best Practices
 
