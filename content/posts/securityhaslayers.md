@@ -195,8 +195,5 @@ Ensure you understand what **YOU** as the customer of AWS are responsible for:
 
 Security requires an understanding of how bad actors may try to compromise your solutions, also explained as knowing your enemy. This enables us to counter those attack methods with purpose built solutions. Security is always changing and we must remain vigilant, constantly adapting to new tactics and strategies.  While there are many AWS security services, not all may be directly needed for your solution. This highlights the importance of asking yourself about components mentioned in the Design Considerations to determine what is needed and practical to fortify your “White House!” 
 
-Finally, leveraging an AWS Partner like **Triumph Tech** can assist in achieving your desired security posture. Triumph can help your business by supplying instant support, design strategies and advice from trusted security experts and architects. Triumph Tech is a Premiere AWS Partner which highlights our level of expertise and AWS competence. If you would like to chat with our professionals about your security needs check us out!
-
-Triumph Tech: [Triumph Tech](https://www.triumphtech.com/)
 
 

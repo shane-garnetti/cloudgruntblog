@@ -14,17 +14,11 @@ Hello everyone and welcome to my tech blog! My name is Shane Garnetti and I am a
 
 - Generate content around AWS services, helping people understand the benefits and value of leveraging AWS as a cloud hosting platform 
 
-- Showcase the ways [Triumph Tech](https://www.triumphtech.com/) can assist your company with innovative and purpose driven solutions!
-
 ## Content I Plan to Cover
 - Professional Development
 - AWS Services
 - AWS Exam tips
 - AWS Solutions
 - Helpful AWS resources
-
-## Frequency of Posts
-- Ideally, I would like to post new content twice a week
-
 
 For more specific info on me, check out my [About page](/about)
