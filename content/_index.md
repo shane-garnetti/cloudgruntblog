@@ -15,10 +15,10 @@ Hello everyone and welcome to my tech blog! My name is Shane Garnetti and I am a
 - Generate content around AWS services, helping people understand the benefits and value of leveraging AWS as a cloud hosting platform 
 
 ## Content I Plan to Cover
-- Professional Development
-- AWS Services
-- AWS Exam tips
-- AWS Solutions
-- Helpful AWS resources
+Professional Development
+AWS Services
+AWS Exam tips
+AWS Solutions
+Helpful AWS resources
 
 For more specific info on me, check out my [About page](/about)
