@@ -6,7 +6,7 @@ tags: ['professional development']
 categories: ['Professional Development']
 ---
 
-![Soldier](/soldier.png)
+![Soldier](/soldier.jpg)
 
 ## Changing a new career can be intimidating and very stressful…
 
