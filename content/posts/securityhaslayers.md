@@ -5,7 +5,7 @@ draft: false
 tags: ['Security']
 ---
 
-#![Shrek](/shrek.png)
+![Shrek](/shrek.png)
 
 ## What is *Defense in Depth* and why is it important?
 
