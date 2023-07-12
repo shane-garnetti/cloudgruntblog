@@ -28,13 +28,13 @@ To start, you'll need to deploy your large language model on AWS. Use the AWS Ma
 
 3. **Convert Bit Data Type:** Based on the number of parameters from the data, use-case, along with desired inference response speed, adjusting the bit type can optimize memory by increasing or decreasing memory allocation. Resulting in improved performance.
 
-    - Loading a large models can often have 100s of millions even billions of parameters. To optimize inference performance, you can reduce the standard 32-bit data type per model weight to a 16-bit (you can even go down to 8-bit!) per model weight, increasing throughput of words-per-second and decreasing the memory footprint. With memory reduced, inference speed can increase. 
+    - Loading large models can often have 100s of millions even billions of parameters. To optimize inference performance, you can reduce the standard 32-bit data type per model weight to a 16-bit (you can even go down to 8-bit!) per model weight, increasing throughput of words-per-second and decreasing the memory footprint. With memory reduced, inference speed can increase. 
 
     **Use Cases:**
 
     ***Decreasing Bit Size*** = Best for chatbots, or inference requirements requiring fast almost instantaneous responses
 
-    **Increasing Bit Size** = Deveoplment environments, inferences in testing stages where response times are slower, but throughput is higher
+    **Increasing Bit Size** = Inferences in testing stages where response times are slower, but throughput is higher
 
 4. **Split Model Weights Betwen Both Neuron Cores:** Divide the model weights between both Neuron cores allows for Parallelization resulting in speed performance and even weight distribution.
 
@@ -48,8 +48,10 @@ To start, you'll need to deploy your large language model on AWS. Use the AWS Ma
 
 Optimizing LLM inference with AWS Inferentia2 can have multiple benefits:
 
-Cost-Effective: Inferentia2 provides high performance at a low cost, making it a cost-effective solution for running LLMs.
-Scalable: It's designed to scale, allowing you to handle increasing inference workloads efficiently.
-Versatile: Inferentia2 supports all major ML frameworks, making it versatile and easy to integrate into your existing ML workflows.
+**Cost-Optimization:** Inferentia2 provides high performance at a low cost, making it a cost-effective solution for running LLMs.
+
+**Scalability:**: It's designed to scale, allowing you to handle increasing inference workloads efficiently.
+
+**Versatility:** Inferentia2 supports all major ML frameworks, making it versatile and easy to integrate into your existing ML workflows.
 
 In conclusion, efficiency plays a pivotal role when dealing with Large Language Models (LLMs). It's not just about running the models, but harnessing them effectively to generate insightful data. By choosing Inferentia2, businesses can truly optimize their AI operations, reaching new heights in their capabilities while optimizing their potential costs.
