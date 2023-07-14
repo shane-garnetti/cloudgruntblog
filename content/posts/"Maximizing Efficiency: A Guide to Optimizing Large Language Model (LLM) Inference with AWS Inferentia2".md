@@ -34,7 +34,7 @@ To start, you'll need to deploy your large language model on AWS. Use the AWS Ma
 
     ***Decreasing Bit Size*** = Best for chatbots, or inference requirements requiring fast almost instantaneous responses
 
-    **Increasing Bit Size** = Best for in testing stages where inference response times are slower, but throughput is higher
+    ***Increasing Bit Size*** = Best for testing stages where inference response times are slower, but throughput is higher
 
 4. **Leverage the Neuron Compiler:** By using the Neuron Compiler, developers can seamlessly adapt their existing ML models built with popular frameworks like TensorFlow, PyTorch, or MXNet, to a low-level Neuron Executable File Format (NEFF). This becomes the compiled artifact that gets ran on the accelerator to perform efficient and cost-effective inference tasks.
 
