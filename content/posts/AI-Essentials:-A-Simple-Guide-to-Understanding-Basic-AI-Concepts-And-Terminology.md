@@ -34,15 +34,13 @@ To start, you'll need to deploy your large language model on AWS. Use the AWS Ma
 
     ***Decreasing Bit Size*** = Best for chatbots, or inference requirements requiring fast almost instantaneous responses
 
-    **Increasing Bit Size** = Inferences in testing stages where response times are slower, but throughput is higher
+    **Increasing Bit Size** = Best for in testing stages where inference response times are slower, but throughput is higher
 
-4. **Split Model Weights Betwen Both Neuron Cores:** Divide the model weights between both Neuron cores allows for Parallelization resulting in speed performance and even weight distribution.
+4. **Leverage the Neuron Compiler:** By using the Neuron Compiler, developers can seamlessly adapt their existing ML models built with popular frameworks like TensorFlow, PyTorch, or MXNet, to a low-level Neuron Executable File Format (NEFF). This becomes the compiled artifact that gets ran on the accelerator to perform efficient and cost-effective inference tasks.
 
-5. **Leverage the Neuron Compiler:** By using the Neuron Compiler, developers can seamlessly adapt their existing ML models built with popular frameworks like TensorFlow, PyTorch, or MXNet, to a low-level Neuron Executable File Format (NEFF). This becomes the compiled artifact that gets ran on the accelerator to perform efficient and cost-effective inference tasks.
+5. **Implement Parralell Process Encoding:** By processing data simultaneously and dividing the model weights evenly between both Neuron cores, parallel processing can significantly speed up the encoding process. This increased throughput can enable faster model training and inference, which can be critical for real-time machine learning applications.
 
-6. **Implement Parralell Process Encoding:** By processing data simultaneously across multiple cores or threads, parallel processing can significantly speed up the encoding process. This increased throughput can enable faster model training and inference, which can be critical for real-time machine learning applications.
-
-3. **Monitor with CloudWatch:** Use AWS CloudWatch to monitor the performance of your LLMs. CloudWatch provides insights on inference throughput and latency, allowing you to fine-tune the performance further.
+6. **Monitor with CloudWatch:** Use AWS CloudWatch to monitor the performance of your LLMs. CloudWatch provides insights on inference throughput and latency, allowing you to fine-tune the performance further.
 
 ### Benefit from the Efficiency:
 
@@ -54,4 +52,6 @@ Optimizing LLM inference with AWS Inferentia2 can have multiple benefits:
 
 **Versatility:** Inferentia2 supports all major ML frameworks, making it versatile and easy to integrate into your existing ML workflows.
 
-In conclusion, efficiency plays a pivotal role when dealing with Large Language Models (LLMs). It's not just about running the models, but harnessing them effectively to generate insightful data. By choosing Inferentia2, businesses can truly optimize their AI operations, reaching new heights in their capabilities while optimizing their potential costs.
+In conclusion, efficiency plays a pivotal role when dealing with Large Language Models (LLMs). It's not just about running the models, but harnessing them effectively to generate insightful data. By choosing Inferentia2 and using the recommendtions above, businesses can truly optimize their AI operations reaching new heights in their capabilities.
+
+Thank you!
